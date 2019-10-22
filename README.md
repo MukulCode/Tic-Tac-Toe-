@@ -1,4 +1,4 @@
 # Tic-Tac-Toe-
-Tic Tac Toe game using basics of python language.
-It is very easy to understand and you can reference it for your game
-Fork it and have one copy and improve it by submitting pull requests, i'll surely look into it and merge after a review.
+This application runs the game Tic Tac Toe which was created using the Python language.
+The application is incredibly straightforward which makes understanding it easy. Feel free to reference this as a sample for your game.
+If you'd like fork it and improve it by submitting pull requests. I'll look into what you've submitted and merge them after I review them.
